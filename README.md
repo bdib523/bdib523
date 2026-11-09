@@ -39,7 +39,7 @@
 ```bash
 badr@asir:~$ cat perfil.txt
 
-  nombre     : Badr Diboune
+  nombre     : Badr Diboune El Wasmi
   formacion  : Administración de Sistemas Informáticos en Red (ASIR)
   enfoque    : infraestructura · redes · automatización · seguridad
   sistemas   : Linux (Ubuntu, Fedora) · Windows Server
