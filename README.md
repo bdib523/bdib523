@@ -1,72 +1,309 @@
-# 👋 ¡Hola! Soy Badr Diboune
+<!-- ============================================================
+     README de perfil · bdib523
+     Repo: github.com/bdib523/bdib523  (debe llamarse igual que tu usuario)
+     Sustituye todo lo que ponga TU-... por tus datos reales
+     ============================================================ -->
 
-### 💻 Estudiante de Administración de Sistemas Informáticos en Red (ASIR)
+<div align="center">
 
-Me interesa el mundo de la informática, especialmente la administración de sistemas, redes, servidores y ciberseguridad. Me gusta aprender nuevas tecnologías y poner en práctica mis conocimientos mediante proyectos y laboratorios.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12315f,100:1f6feb&height=220&section=header&text=Badr%20Diboune&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Administraci%C3%B3n%20de%20Sistemas%20%C2%B7%20Redes%20%C2%B7%20Cloud%20%C2%B7%20Ciberseguridad&descAlignY=58&descSize=17" alt="Cabecera" width="100%"/>
 
-## 🚀 Sobre mí
+<a href="https://github.com/bdib523">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Estudiante+de+ASIR+%7C+SysAdmin+junior;Linux+%C2%B7+Windows+Server+%C2%B7+Docker;Montando+laboratorios+reales+de+redes+y+virtualizaci%C3%B3n;Automatizando+tareas+con+Bash;Aprendiendo+AWS+y+ciberseguridad" alt="Typing SVG" />
+</a>
 
-- 🎓 Estudiante de ASIR.
-- 🖥️ Aprendiendo administración de sistemas Linux y Windows.
-- 🌐 Configuración y administración de redes.
-- 🐳 Trabajando con Docker y virtualización.
-- ☁️ Aprendiendo servicios cloud con AWS.
-- 🔐 Interesado en ciberseguridad y automatización.
+<br/>
 
-## 🛠️ Tecnologías y herramientas
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/bdib523?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/></a>
+<img src="https://komarev.com/ghpvc/?username=bdib523&label=Visitas&color=1f6feb&style=for-the-badge" alt="Visitas"/>
 
-**Sistemas operativos**
+<br/><br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://img.shields.io/badge/Disponible_para-Pr%C3%A1cticas_FCT-2ea043?style=flat-square" alt="Disponible para prácticas"/>
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A1laga%2C_Espa%C3%B1a-1f6feb?style=flat-square" alt="Ubicación"/>
+<img src="https://img.shields.io/badge/Idiomas-ES_%C2%B7_EN_%C2%B7_AR-8957e5?style=flat-square" alt="Idiomas"/>
 
-**Redes y virtualización**
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
 
-**Programación y herramientas**
+---
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## `~/whoami`
 
-## 📂 Mis proyectos
+```bash
+badr@asir:~$ cat perfil.txt
 
-| Proyecto | Descripción |
-|---|---|
-| Redes en Docker | Configuración y gestión de redes en Docker. |
-| Persistencia en Docker | Volúmenes y persistencia de datos. |
-| Scripts Bash | Automatización de tareas en Linux. |
-| Gestión de recursos | Proyecto de programación y gestión. |
-| Prácticas de ASIR | Laboratorios y ejercicios de administración de sistemas. |
+  nombre     : Badr Diboune
+  formacion  : Administración de Sistemas Informáticos en Red (ASIR)
+  enfoque    : infraestructura · redes · automatización · seguridad
+  sistemas   : Linux (Ubuntu, Fedora) · Windows Server
+  virtualiz. : Docker · Proxmox · VirtualBox
+  cloud      : AWS (en progreso)
+  filosofia  : "Si no lo has roto y reparado, aún no lo has entendido"
+  estado     : buscando prácticas en sistemas, redes o cloud
 
-## 📚 Actualmente aprendiendo
+badr@asir:~$ _
+```
 
-- Administración de servidores Linux.
-- Windows Server y Active Directory.
-- DNS Master y Slave.
-- Docker y Docker Compose.
-- Virtualización con Proxmox.
-- Administración de bases de datos SQL.
-- Servicios cloud con AWS.
-- Automatización con Bash.
+Me gusta montar laboratorios reales, romperlos a propósito, entender por qué fallan y **documentarlo todo** para poder reproducirlo. Cada proyecto de este perfil incluye su guía, su esquema y los comandos usados.
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdib523&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdib523&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
+## Stack técnico
 
-## 📫 Contacto
+<div align="center">
 
-🐙 **GitHub:** [@bdib523](https://github.com/bdib523)
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,fedora,windows,bash,docker,aws,git,github,nginx,apache,mysql,html,css,vscode&perline=8" alt="Skills"/>
 
-⭐ *Siempre aprendiendo, practicando y mejorando mis conocimientos en informática.*
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+</div>
+
+### Nivel por área
+
+| Área | Competencias | Nivel |
+|:--|:--|:--|
+| **Sistemas Linux** | Usuarios y permisos, servicios con systemd, paquetes, logs, cron | ![](https://img.shields.io/badge/-Intermedio-2ea043?style=flat-square) |
+| **Windows Server** | Active Directory, DNS, DHCP, GPO | ![](https://img.shields.io/badge/-Intermedio-2ea043?style=flat-square) |
+| **Redes** | Direccionamiento IP, subnetting, VLAN, enrutamiento, NAT | ![](https://img.shields.io/badge/-Intermedio-2ea043?style=flat-square) |
+| **Contenedores** | Docker, redes, volúmenes, Docker Compose | ![](https://img.shields.io/badge/-Intermedio-2ea043?style=flat-square) |
+| **Virtualización** | Proxmox, VirtualBox, snapshots, plantillas | ![](https://img.shields.io/badge/-Intermedio-2ea043?style=flat-square) |
+| **Scripting** | Bash: backups, monitorización, gestión de usuarios | ![](https://img.shields.io/badge/-B%C3%A1sico--Intermedio-d29922?style=flat-square) |
+| **Cloud** | AWS: EC2, S3, IAM, VPC | ![](https://img.shields.io/badge/-Aprendiendo-1f6feb?style=flat-square) |
+| **Ciberseguridad** | Hardening, firewall, análisis de logs | ![](https://img.shields.io/badge/-Aprendiendo-1f6feb?style=flat-square) |
+
+> Ajusta los niveles a tu realidad: mejor un "Básico" honesto que un "Avanzado" que se cae en una entrevista.
+
+---
+
+## Proyectos destacados
+
+<div align="center">
+
+<!-- Sustituye NOMBRE-REPO por el nombre real de cada repositorio -->
+<a href="https://github.com/bdib523/NOMBRE-REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdib523&repo=NOMBRE-REPO-1&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Proyecto 1"/>
+</a>
+<a href="https://github.com/bdib523/NOMBRE-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdib523&repo=NOMBRE-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Proyecto 2"/>
+</a>
+<br/>
+<a href="https://github.com/bdib523/NOMBRE-REPO-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdib523&repo=NOMBRE-REPO-3&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Proyecto 3"/>
+</a>
+<a href="https://github.com/bdib523/NOMBRE-REPO-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdib523&repo=NOMBRE-REPO-4&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Proyecto 4"/>
+</a>
+
+</div>
+
+### Detalle de cada proyecto
+
+<details>
+<summary><b>Redes en Docker</b> · bridge, host y redes personalizadas</summary>
+<br/>
+
+**Objetivo:** entender cómo se comunican los contenedores entre sí y con el exterior.
+
+**Qué incluye**
+- Redes `bridge` por defecto y definidas por el usuario
+- Resolución DNS interna entre contenedores
+- Aislamiento de servicios con redes separadas
+- Publicación de puertos y modo `host`
+
+```bash
+docker network create --driver bridge red-backend
+docker run -d --name db --network red-backend postgres
+docker run -d --name app --network red-backend mi-app
+docker exec app ping db      # resuelve por nombre
+```
+
+**Aprendido:** diferencias entre drivers de red, y por qué una red definida por el usuario ofrece DNS automático y mejor aislamiento.
+
+[Ver repositorio →](https://github.com/bdib523/NOMBRE-REPO)
+
+</details>
+
+<details>
+<summary><b>Persistencia en Docker</b> · volúmenes, bind mounts y backups</summary>
+<br/>
+
+**Objetivo:** garantizar que los datos sobreviven a la vida de un contenedor.
+
+**Qué incluye**
+- Volúmenes nombrados vs bind mounts vs `tmpfs`
+- Backup y restauración de volúmenes
+- Bases de datos con datos persistentes en Docker Compose
+
+```bash
+docker volume create datos-db
+docker run -d --name db -v datos-db:/var/lib/postgresql/data postgres
+docker run --rm -v datos-db:/data -v $(pwd):/backup alpine \
+  tar czf /backup/datos-db.tar.gz /data
+```
+
+**Aprendido:** cuándo usar cada tipo de almacenamiento y cómo planificar copias de seguridad.
+
+[Ver repositorio →](https://github.com/bdib523/NOMBRE-REPO)
+
+</details>
+
+<details>
+<summary><b>Scripts Bash</b> · automatización de tareas en Linux</summary>
+<br/>
+
+**Objetivo:** eliminar tareas repetitivas de administración.
+
+**Qué incluye**
+- Backup automático con rotación
+- Alta y baja masiva de usuarios desde CSV
+- Monitorización de disco, CPU y servicios
+- Programación con `cron`
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+ORIGEN="/etc"
+DESTINO="/backups/$(date +%F)"
+mkdir -p "$DESTINO"
+tar czf "$DESTINO/etc.tar.gz" "$ORIGEN"
+find /backups -type d -mtime +7 -exec rm -rf {} +
+```
+
+**Aprendido:** buenas prácticas (`set -euo pipefail`, variables entre comillas, logs) y manejo de errores.
+
+[Ver repositorio →](https://github.com/bdib523/NOMBRE-REPO)
+
+</details>
+
+<details>
+<summary><b>Laboratorios de ASIR</b> · prácticas de administración de sistemas</summary>
+<br/>
+
+**Objetivo:** documentar las prácticas del ciclo con enfoque profesional.
+
+**Qué incluye**
+- Dominio Active Directory con DNS y DHCP
+- Servidores Linux: SSH, Apache/Nginx, Samba, NFS
+- Políticas de grupo y gestión de permisos
+
+[Ver repositorio →](https://github.com/bdib523/NOMBRE-REPO)
+
+</details>
+
+---
+
+## Arquitectura de mi laboratorio
+
+> Esquema del homelab. Edítalo para que refleje tu laboratorio real.
+
+```mermaid
+flowchart TB
+    NET([Internet]) --> FW[Router / Firewall]
+
+    subgraph LAB["Host de virtualización · Proxmox"]
+        direction TB
+        FW --> BR0{{vmbr0 · LAN}}
+
+        BR0 --> DC[Windows Server<br/>AD · DNS · DHCP]
+        BR0 --> LNX[Ubuntu Server<br/>SSH · Nginx · Samba]
+        BR0 --> DK[Host Docker]
+
+        subgraph CONT["Contenedores"]
+            direction LR
+            WEB[Web] --- DB[(Base de datos)]
+            DB --- VOL[(Volumen persistente)]
+        end
+
+        DK --> CONT
+    end
+
+    style LAB fill:#0d1117,stroke:#1f6feb,color:#c9d1d9
+    style CONT fill:#161b22,stroke:#30363d,color:#c9d1d9
+```
+
+---
+
+## Demostración
+
+<div align="center">
+
+<!--
+  GIFs propios: la forma más profesional de mostrar tu trabajo.
+  1. Graba tus comandos con VHS (https://github.com/charmbracelet/vhs) o asciinema + agg.
+  2. Guárdalos en la carpeta assets/ de este repo.
+  3. Descomenta las líneas de abajo.
+
+  <img src="assets/docker-networks.gif" width="720" alt="Demo redes Docker"/>
+  <img src="assets/backup-script.gif" width="720" alt="Demo script de backup"/>
+-->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=7EE787&center=true&vCenter=true&width=620&lines=%24+docker+network+create+red-backend;%24+docker+compose+up+-d;%24+.%2Fbackup.sh+%26%26+echo+%22Backup+completado%22;%24+systemctl+status+nginx+%E2%86%92+active+(running)" alt="Terminal animado"/>
+
+</div>
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bdib523&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&count_private=true" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdib523&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Lenguajes"/>
+
+<img height="150" src="https://streak-stats.demolab.com?user=bdib523&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Racha"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bdib523&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trofeos"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bdib523&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" alt="Actividad" width="95%"/>
+
+</div>
+
+<!-- Serpiente animada (opcional): ver instrucciones en el chat para activar el workflow -->
+<!--
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdib523/bdib523/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/bdib523/bdib523/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+-->
+
+---
+
+## Hoja de ruta
+
+| Estado | Objetivo | Plazo |
+|:--:|:--|:--|
+| ![](https://img.shields.io/badge/-En_curso-1f6feb?style=flat-square) | Certificación **AWS Cloud Practitioner** | 2026 |
+| ![](https://img.shields.io/badge/-En_curso-1f6feb?style=flat-square) | Dominar **Docker Compose** y orquestación básica | 2026 |
+| ![](https://img.shields.io/badge/-Planificado-8b949e?style=flat-square) | Certificación **LPIC-1** o **CompTIA Linux+** | 2027 |
+| ![](https://img.shields.io/badge/-Planificado-8b949e?style=flat-square) | Infraestructura como código con **Terraform** y **Ansible** | 2027 |
+| ![](https://img.shields.io/badge/-Planificado-8b949e?style=flat-square) | Laboratorio de seguridad: firewall, VPN e IDS | 2027 |
+| ![](https://img.shields.io/badge/-Planificado-8b949e?style=flat-square) | **CCNA** (redes Cisco) | 2027 |
+
+---
+
+## Contacto
+
+<div align="center">
+
+¿Tienes una oportunidad de prácticas o quieres colaborar en un proyecto?
+
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/Hablemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:12315f,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
+
+</div>
