@@ -242,35 +242,6 @@ find /backups -type d -mtime +7 -exec rm -rf {} +
 
 ---
 
-## Arquitectura de mi laboratorio
-
-```mermaid
-flowchart TB
-    NET([Internet]) --> FW[Router / Firewall]
-
-    subgraph LAB["Host de virtualización · Proxmox"]
-        direction TB
-        FW --> BR0{{vmbr0 · LAN}}
-
-        BR0 --> DC[Windows Server<br/>AD · DNS · DHCP]
-        BR0 --> LNX[Ubuntu Server<br/>SSH · Nginx · Samba]
-        BR0 --> DK[Host Docker]
-
-        subgraph CONT["Contenedores"]
-            direction LR
-            WEB[Web] --- DB[(Base de datos)]
-            DB --- VOL[(Volumen persistente)]
-        end
-
-        DK --> CONT
-    end
-
-    style LAB fill:#0d1117,stroke:#1f6feb,color:#c9d1d9
-    style CONT fill:#161b22,stroke:#30363d,color:#c9d1d9
-```
-
----
-
 ## Demostración
 
 <div align="center">
